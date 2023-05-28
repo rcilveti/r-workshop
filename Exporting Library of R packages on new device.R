@@ -2,12 +2,13 @@
 
 # Source Devive
 RLibrary230528 <- as.data.frame(installed.packages())
-RLibrary230528
-write.csv(RLibrary230528, 'RLibrary230528.csv')
 writexl::write_xlsx(RLibrary230528, 'RLibrary230528.xlsx')
 
-#New Device
+# New Device
 RLibrary230528 <- readxl::read_xlsx('RLibrary230528.xlsx')
+RLibrary230528 <- as.data.frame(RLibrary230528)
 baseR <- as.data.frame(installed.packages())
-toInstall <- setdiff(RLibrary230528, baseR)
+toInstall <- setdiff(RLibrary230528, baseR) # compare dataframes
+toInstall <- select(toInstall, "Package" )  # select only var with package's name
+toInstall = toInstall[['Package']]          # convert data frame into a vector (index)
 install.packages(toInstall)
