@@ -1,0 +1,126 @@
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:left;"> [ALL] <br/> N=2294 </th>
+   <th style="text-align:center;"> Male <br/> N=1101 </th>
+   <th style="text-align:center;"> Female <br/> N=1193 </th>
+   <th style="text-align:center;"> p.overall </th>
+   <th style="text-align:center;">  N   </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Recruitment year: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 0.506 </td>
+   <td style="text-align:center;"> 2294 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;1995 </td>
+   <td style="text-align:left;"> 431 (18.8%) </td>
+   <td style="text-align:center;"> 206 (18.7%) </td>
+   <td style="text-align:center;"> 225 (18.9%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;2000 </td>
+   <td style="text-align:left;"> 786 (34.3%) </td>
+   <td style="text-align:center;"> 390 (35.4%) </td>
+   <td style="text-align:center;"> 396 (33.2%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;2005 </td>
+   <td style="text-align:left;"> 1077 (46.9%) </td>
+   <td style="text-align:center;"> 505 (45.9%) </td>
+   <td style="text-align:center;"> 572 (47.9%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hypertension treatment: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 0.096 </td>
+   <td style="text-align:center;"> 2251 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;No </td>
+   <td style="text-align:left;"> 1823 (81.0%) </td>
+   <td style="text-align:center;"> 889 (82.5%) </td>
+   <td style="text-align:center;"> 934 (79.6%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;Yes </td>
+   <td style="text-align:left;"> 428 (19.0%) </td>
+   <td style="text-align:center;"> 189 (17.5%) </td>
+   <td style="text-align:center;"> 239 (20.4%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Total cholesterol </td>
+   <td style="text-align:left;"> 218.8 (45.2) </td>
+   <td style="text-align:center;"> 217.3 (42.7) </td>
+   <td style="text-align:center;"> 220.1 (47.4) </td>
+   <td style="text-align:center;"> 0.140 </td>
+   <td style="text-align:center;"> 2193 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HDL cholesterol </td>
+   <td style="text-align:left;"> 52.7 (14.7) </td>
+   <td style="text-align:center;"> 47.5 (12.6) </td>
+   <td style="text-align:center;"> 57.5 (15.0) </td>
+   <td style="text-align:center;"> <0.001 </td>
+   <td style="text-align:center;"> 2225 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Triglycerides </td>
+   <td style="text-align:left;"> 115.6 (73.9) </td>
+   <td style="text-align:center;"> 130.7 (87.4) </td>
+   <td style="text-align:center;"> 101.5 (55.2) </td>
+   <td style="text-align:center;"> <0.001 </td>
+   <td style="text-align:center;"> 2231 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> LDL cholesterol </td>
+   <td style="text-align:left;"> 143.2 (39.7) </td>
+   <td style="text-align:center;"> 144.8 (38.5) </td>
+   <td style="text-align:center;"> 141.9 (40.7) </td>
+   <td style="text-align:center;"> 0.092 </td>
+   <td style="text-align:center;"> 2126 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> History of hyperchol.: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 0.308 </td>
+   <td style="text-align:center;"> 2273 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;Yes </td>
+   <td style="text-align:left;"> 709 (31.2%) </td>
+   <td style="text-align:center;"> 353 (32.3%) </td>
+   <td style="text-align:center;"> 356 (30.2%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;No </td>
+   <td style="text-align:left;"> 1564 (68.8%) </td>
+   <td style="text-align:center;"> 741 (67.7%) </td>
+   <td style="text-align:center;"> 823 (69.8%) </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+</tbody>
+</table>
